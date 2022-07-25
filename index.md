@@ -23,3 +23,7 @@ git status
 
 #
 git log
+
+# git remote add 
+git remote add origin https://github.com/nehad06/my-project.git
+git remote -v
