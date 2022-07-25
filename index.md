@@ -11,3 +11,15 @@ git add filename
 
 # checking status 
 git status
+
+# add
+git add .
+
+# commit
+git commit -m " "
+
+# check status
+git status
+
+#
+git log
