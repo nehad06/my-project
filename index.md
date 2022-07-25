@@ -1,0 +1,13 @@
+# understanding Git and Github / BitBucket
+
+# 1.
+git init (use it the first time you are creating a project, 1 time use)
+
+# checking status
+git status
+
+# commit workflow
+git add filename
+
+# checking status 
+git status
